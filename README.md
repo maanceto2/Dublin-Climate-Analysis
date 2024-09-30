@@ -1,8 +1,9 @@
-# Dublin-Climate-Analysis
+# Climate Data Analysis of Dublin Using Pandas, Seaborn, and Dash
 
  ( Analysis of Dublin's Climate over the period of 1942-2024 )
 
- This repository contains Jupyter notebooks and climate data for analyzing the climate patterns of Dublin, Ireland. My goal is to provide insights into the historical and current climate trends in Dublin, leveraging various data analysis and visualization techniques using Python's Pandas and Seaborn libraries.
+This repository includes Jupyter notebooks and climate datasets focused on analyzing Dublin's historical and current climate patterns. The goal is to provide insights into Dublin's evolving climate trends through data analysis and visualization, utilizing Python libraries such as Pandas, Seaborn, and Dash. 
+
 
  ## Project Overview
 
